@@ -2,11 +2,11 @@
   "categories": [
     {
       "id": "c1",
-      "title": "Morning & Evening Duas",
+      "title": "surah An Nisa & Fatiha",
       "subcategories": [
         {
           "id": "s1",
-          "title": "Morning Duas",
+          "title": "Surah Nisa",
           "duas": [
             {
               "id": "d1",
@@ -24,13 +24,13 @@
         },
         {
           "id": "s2",
-          "title": "Evening Duas",
+          "title": "sura fatiha",
           "duas": [
             {
               "id": "d3",
-              "arabic": "اللَّهُمَّ إِنِّي أَمْسَيْتُ...",
-              "meaning": "হে আল্লাহ! আমি সন্ধ্যা পেয়েছি...",
-              "reference": "Muslim"
+              "arabic": "بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡمِ",
+              "meaning": "(আরম্ভ করছি) পরম করুণাময় অসীম দয়াময় আল্লাহর নামে।",
+              "reference": "Al Quran"
             }
           ]
         }
