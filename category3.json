@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Morning & Evening Duas",
+      "subcategories": [
+        {
+          "id": "s1",
+          "title": "Morning Duas",
+          "duas": [
+            {
+              "id": "d1",
+              "arabic": "اللّهُـمَّ أَنْتَ رَبِّـي...",
+              "meaning": "হে আল্লাহ! আপনি আমার প্রতিপালক...",
+              "reference": "Tirmidhi"
+            },
+            {
+              "id": "d2",
+              "arabic": "بِسْمِ اللَّهِ الَّذِي...",
+              "meaning": "আল্লাহর নামে যার...",
+              "reference": "Abu Dawood"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "Evening Duas",
+          "duas": [
+            {
+              "id": "d3",
+              "arabic": "اللَّهُمَّ إِنِّي أَمْسَيْتُ...",
+              "meaning": "হে আল্লাহ! আমি সন্ধ্যা পেয়েছি...",
+              "reference": "Muslim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Travel Duas",
+      "subcategories": [
+        {
+          "id": "s3",
+          "title": "Before Journey",
+          "duas": [
+            {
+              "id": "d4",
+              "arabic": "سُبْحَانَ الَّذِي سَخَّرَ...",
+              "meaning": "পবিত্র তিনি যিনি...",
+              "reference": "Tirmidhi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
