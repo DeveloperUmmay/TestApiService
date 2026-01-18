@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "c1",
-      "title": "surah An Nisa & Fatiha",
+      "title": "Basic English",
       "subcategories": [
         {
           "id": "s1",
@@ -55,15 +55,15 @@
       ]
     },
      {
-      "id": "c2",
+      "id": "c3",
       "title": "Travel Duas",
       "subcategories": [
         {
-          "id": "s3",
+          "id": "s4",
           "title": "Before Journey",
           "duas": [
             {
-              "id": "d4",
+              "id": "d5",
               "arabic": "سُبْحَانَ الَّذِي سَخَّرَ...",
               "meaning": "পবিত্র তিনি যিনি...",
               "reference": "Tirmidhi"
