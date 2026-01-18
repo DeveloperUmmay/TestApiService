@@ -53,6 +53,24 @@
           ]
         }
       ]
+    },
+     {
+      "id": "c2",
+      "title": "Travel Duas",
+      "subcategories": [
+        {
+          "id": "s3",
+          "title": "Before Journey",
+          "duas": [
+            {
+              "id": "d4",
+              "arabic": "سُبْحَانَ الَّذِي سَخَّرَ...",
+              "meaning": "পবিত্র তিনি যিনি...",
+              "reference": "Tirmidhi"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
