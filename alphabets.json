@@ -1,142 +1,172 @@
 {
-  "english_alphabets": [
+  "categories": [
     {
-      "letter": "A a",
-      "pronunciation": "/eɪ/",
-      "bangla_pronunciation": "এ"
+      "id": "c1",
+      "title": "English Alphabets",
+      "subcategories": [
+        {
+          "id": "s1",
+          "title": "Letters",
+          "letters": [
+            {
+              "id": "1a",
+              "letter": "A a",
+              "pronunciation": "/eɪ/",
+              "bangla_pronunciation": "এ"
+            },
+            {
+              "id": "l2",
+              "letter": "B b",
+              "pronunciation": "/biː/",
+              "bangla_pronunciation": "বি"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "Vowels",
+          "vowels": {
+            "letters": ["A", "E", "I", "O", "U"],
+            "meaning_bangla": "স্বরবর্ণ"
+          }
+        },
+        {
+          "id": "s3",
+          "title": "Consonants",
+          "consonants": {
+            "description": "All other 21 letters except vowels",
+            "meaning_bangla": "ব্যঞ্জনবর্ণ"
+          }
+        }
+      ]
     },
     {
-      "letter": "B b",
-      "pronunciation": "/biː/",
-      "bangla_pronunciation": "বি"
+      "id": "c2",
+      "title": "Basic Words",
+      "subcategories": [
+        {
+          "id": "s1",
+          "title": "People & Relations",
+          "words": [
+            { "en": "Man", "bn": "মানুষ/পুরুষ" },
+            { "en": "Woman", "bn": "নারী" },
+            { "en": "Boy", "bn": "ছেলে" },
+            { "en": "Girl", "bn": "মেয়ে" },
+            { "en": "Child", "bn": "শিশু" },
+            { "en": "Friend", "bn": "বন্ধু" },
+            { "en": "Teacher", "bn": "শিক্ষক" },
+            { "en": "Student", "bn": "ছাত্র/ছাত্রী" },
+            { "en": "Mother", "bn": "মা" },
+            { "en": "Father", "bn": "বাবা" }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "Common Objects",
+          "words": [
+            { "en": "Pen", "bn": "কলম" },
+            { "en": "Book", "bn": "বই" },
+            { "en": "Bag", "bn": "ব্যাগ" },
+            { "en": "Table", "bn": "টেবিল" },
+            { "en": "Chair", "bn": "চেয়ার" },
+            { "en": "Phone", "bn": "ফোন" },
+            { "en": "Door", "bn": "দরজা" },
+            { "en": "Window", "bn": "জানালা" }
+          ]
+        }
+      ]
     },
     {
-      "letter": "C c",
-      "pronunciation": "/siː/",
-      "bangla_pronunciation": "সি"
+      "id": "c3",
+      "title": "Simple Sentences",
+      "subcategories": [
+        {
+          "id": "s1",
+          "title": "Sentences",
+          "sentences": [
+            {
+              "en": "Good morning.",
+              "bn": "সুপ্রভাত।"
+            },
+            {
+              "en": "How are you?",
+              "bn": "তুমি কেমন আছো?"
+            },
+            {
+              "en": "I am fine.",
+              "bn": "আমি ভালো আছি।"
+            },
+            {
+              "en": "What is your name?",
+              "bn": "তোমার নাম কী?"
+            },
+            {
+              "en": "My name is Rahim.",
+              "bn": "আমার নাম রহিম।"
+            },
+            {
+              "en": "Let’s go.",
+              "bn": "চল যাই।"
+            },
+            {
+              "en": "Thank you very much.",
+              "bn": "তোমাকে অনেক ধন্যবাদ।"
+            },
+            {
+              "en": "I am tired.",
+              "bn": "আমি ক্লান্ত।"
+            }
+          ]
+        }
+      ]
     },
-    {
-      "letter": "D d",
-      "pronunciation": "/diː/",
-      "bangla_pronunciation": "ডি"
-    },
-    {
-      "letter": "E e",
-      "pronunciation": "/iː/",
-      "bangla_pronunciation": "ই"
-    },
-    {
-      "letter": "F f",
-      "pronunciation": "/ɛf/",
-      "bangla_pronunciation": "এফ"
-    },
-    {
-      "letter": "G g",
-      "pronunciation": "/dʒiː/",
-      "bangla_pronunciation": "জি"
-    },
-    {
-      "letter": "H h",
-      "pronunciation": "/eɪtʃ/",
-      "bangla_pronunciation": "এইচ"
-    },
-    {
-      "letter": "I i",
-      "pronunciation": "/aɪ/",
-      "bangla_pronunciation": "আই"
-    },
-    {
-      "letter": "J j",
-      "pronunciation": "/dʒeɪ/",
-      "bangla_pronunciation": "জে"
-    },
-    {
-      "letter": "K k",
-      "pronunciation": "/keɪ/",
-      "bangla_pronunciation": "কে"
-    },
-    {
-      "letter": "L l",
-      "pronunciation": "/ɛl/",
-      "bangla_pronunciation": "এল"
-    },
-    {
-      "letter": "M m",
-      "pronunciation": "/ɛm/",
-      "bangla_pronunciation": "এম"
-    },
-    {
-      "letter": "N n",
-      "pronunciation": "/ɛn/",
-      "bangla_pronunciation": "এন"
-    },
-    {
-      "letter": "O o",
-      "pronunciation": "/oʊ/",
-      "bangla_pronunciation": "ও"
-    },
-    {
-      "letter": "P p",
-      "pronunciation": "/piː/",
-      "bangla_pronunciation": "পি"
-    },
-    {
-      "letter": "Q q",
-      "pronunciation": "/kjuː/",
-      "bangla_pronunciation": "কিউ"
-    },
-    {
-      "letter": "R r",
-      "pronunciation": "/ɑːr/",
-      "bangla_pronunciation": "আর"
-    },
-    {
-      "letter": "S s",
-      "pronunciation": "/ɛs/",
-      "bangla_pronunciation": "এস"
-    },
-    {
-      "letter": "T t",
-      "pronunciation": "/tiː/",
-      "bangla_pronunciation": "টি"
-    },
-    {
-      "letter": "U u",
-      "pronunciation": "/juː/",
-      "bangla_pronunciation": "ইউ"
-    },
-    {
-      "letter": "V v",
-      "pronunciation": "/viː/",
-      "bangla_pronunciation": "ভি"
-    },
-    {
-      "letter": "W w",
-      "pronunciation": "/ˈdʌbəl.juː/",
-      "bangla_pronunciation": "ডাবল ইউ"
-    },
-    {
-      "letter": "X x",
-      "pronunciation": "/ɛks/",
-      "bangla_pronunciation": "এক্স"
-    },
-    {
-      "letter": "Y y",
-      "pronunciation": "/waɪ/",
-      "bangla_pronunciation": "ওয়াই"
-    },
-    {
-      "letter": "Z z",
-      "pronunciation": "/ziː/ (US), /zed/ (UK)",
-      "bangla_pronunciation": "জি (US), জেড (UK)"
+ {
+      "id": "c4",
+      "title": "Days of the Week",
+      "days": [
+        {
+          "no": 1,
+          "english": "Sunday",
+          "bangla": "রবিবার",
+          "pronunciation_bn": "সানডেই"
+        },
+        {
+          "no": 2,
+          "english": "Monday",
+          "bangla": "সোমবার",
+          "pronunciation_bn": "মনডেই"
+        },
+        {
+          "no": 3,
+          "english": "Tuesday",
+          "bangla": "মঙ্গলবার",
+          "pronunciation_bn": "টিউজডেই"
+        },
+        {
+          "no": 4,
+          "english": "Wednesday",
+          "bangla": "বুধবার",
+          "pronunciation_bn": "ওয়েন্সডেই"
+        },
+        {
+          "no": 5,
+          "english": "Thursday",
+          "bangla": "বৃহস্পতিবার",
+          "pronunciation_bn": "থা(র)সডেই"
+        },
+        {
+          "no": 6,
+          "english": "Friday",
+          "bangla": "শুক্রবার",
+          "pronunciation_bn": "ফ্রাইডে-ই"
+        },
+        {
+          "no": 7,
+          "english": "Saturday",
+          "bangla": "শনিবার",
+          "pronunciation_bn": "স্যাটা(র)ডেই"
+        }
+      ]
     }
-  ],
-  "vowels": {
-    "letters": ["A", "E", "I", "O", "U"],
-    "meaning_bangla": "স্বরবর্ণ"
-  },
-  "consonants": {
-    "description": "All other 21 letters except vowels",
-    "meaning_bangla": "ব্যঞ্জনবর্ণ"
-  }
+  ]
 }
