@@ -10,15 +10,15 @@
           "key": [
             {
               "id": "1a",
-              "letter": "A a",
-              "pronunciation": "/eɪ/",
-              "bangla_pronunciation": "এ"
+              "en": "A a",
+              "pn": "/eɪ/",
+              "bn": "এ"
             },
             {
               "id": "l2",
-              "letter": "B b",
-              "pronunciation": "/biː/",
-              "bangla_pronunciation": "বি"
+              "en": "B b",
+              "pn": "/biː/",
+              "bn": "বি"
             }
           ]
         },
