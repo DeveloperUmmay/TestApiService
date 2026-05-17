@@ -1,0 +1,142 @@
+{
+  "english_alphabets": [
+    {
+      "letter": "A a",
+      "pronunciation": "/eɪ/",
+      "bangla_pronunciation": "এ"
+    },
+    {
+      "letter": "B b",
+      "pronunciation": "/biː/",
+      "bangla_pronunciation": "বি"
+    },
+    {
+      "letter": "C c",
+      "pronunciation": "/siː/",
+      "bangla_pronunciation": "সি"
+    },
+    {
+      "letter": "D d",
+      "pronunciation": "/diː/",
+      "bangla_pronunciation": "ডি"
+    },
+    {
+      "letter": "E e",
+      "pronunciation": "/iː/",
+      "bangla_pronunciation": "ই"
+    },
+    {
+      "letter": "F f",
+      "pronunciation": "/ɛf/",
+      "bangla_pronunciation": "এফ"
+    },
+    {
+      "letter": "G g",
+      "pronunciation": "/dʒiː/",
+      "bangla_pronunciation": "জি"
+    },
+    {
+      "letter": "H h",
+      "pronunciation": "/eɪtʃ/",
+      "bangla_pronunciation": "এইচ"
+    },
+    {
+      "letter": "I i",
+      "pronunciation": "/aɪ/",
+      "bangla_pronunciation": "আই"
+    },
+    {
+      "letter": "J j",
+      "pronunciation": "/dʒeɪ/",
+      "bangla_pronunciation": "জে"
+    },
+    {
+      "letter": "K k",
+      "pronunciation": "/keɪ/",
+      "bangla_pronunciation": "কে"
+    },
+    {
+      "letter": "L l",
+      "pronunciation": "/ɛl/",
+      "bangla_pronunciation": "এল"
+    },
+    {
+      "letter": "M m",
+      "pronunciation": "/ɛm/",
+      "bangla_pronunciation": "এম"
+    },
+    {
+      "letter": "N n",
+      "pronunciation": "/ɛn/",
+      "bangla_pronunciation": "এন"
+    },
+    {
+      "letter": "O o",
+      "pronunciation": "/oʊ/",
+      "bangla_pronunciation": "ও"
+    },
+    {
+      "letter": "P p",
+      "pronunciation": "/piː/",
+      "bangla_pronunciation": "পি"
+    },
+    {
+      "letter": "Q q",
+      "pronunciation": "/kjuː/",
+      "bangla_pronunciation": "কিউ"
+    },
+    {
+      "letter": "R r",
+      "pronunciation": "/ɑːr/",
+      "bangla_pronunciation": "আর"
+    },
+    {
+      "letter": "S s",
+      "pronunciation": "/ɛs/",
+      "bangla_pronunciation": "এস"
+    },
+    {
+      "letter": "T t",
+      "pronunciation": "/tiː/",
+      "bangla_pronunciation": "টি"
+    },
+    {
+      "letter": "U u",
+      "pronunciation": "/juː/",
+      "bangla_pronunciation": "ইউ"
+    },
+    {
+      "letter": "V v",
+      "pronunciation": "/viː/",
+      "bangla_pronunciation": "ভি"
+    },
+    {
+      "letter": "W w",
+      "pronunciation": "/ˈdʌbəl.juː/",
+      "bangla_pronunciation": "ডাবল ইউ"
+    },
+    {
+      "letter": "X x",
+      "pronunciation": "/ɛks/",
+      "bangla_pronunciation": "এক্স"
+    },
+    {
+      "letter": "Y y",
+      "pronunciation": "/waɪ/",
+      "bangla_pronunciation": "ওয়াই"
+    },
+    {
+      "letter": "Z z",
+      "pronunciation": "/ziː/ (US), /zed/ (UK)",
+      "bangla_pronunciation": "জি (US), জেড (UK)"
+    }
+  ],
+  "vowels": {
+    "letters": ["A", "E", "I", "O", "U"],
+    "meaning_bangla": "স্বরবর্ণ"
+  },
+  "consonants": {
+    "description": "All other 21 letters except vowels",
+    "meaning_bangla": "ব্যঞ্জনবর্ণ"
+  }
+}
