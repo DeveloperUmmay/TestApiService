@@ -7,7 +7,7 @@
         {
           "id": "s1",
           "title": "Letters",
-          "letters": [
+          "key": [
             {
               "id": "1a",
               "letter": "A a",
@@ -25,18 +25,28 @@
         {
           "id": "s2",
           "title": "Vowels",
-          "vowels": {
-            "letters": ["A", "E", "I", "O", "U"],
-            "meaning_bangla": "স্বরবর্ণ"
-          }
+          "key":[
+            {
+              "letters": [
+                "A",
+                "E",
+                "I",
+                "O",
+                "U"
+              ],
+              "meaning_bangla": "স্বরবর্ণ"
+            }
+          ]
         },
         {
           "id": "s3",
           "title": "Consonants",
-          "consonants": {
-            "description": "All other 21 letters except vowels",
-            "meaning_bangla": "ব্যঞ্জনবর্ণ"
+          "key":[
+            {
+            "en": "All other 21 letters except vowels",
+            "bn": "ব্যঞ্জনবর্ণ"
           }
+            ]
         }
       ]
     },
@@ -47,7 +57,7 @@
         {
           "id": "s1",
           "title": "People & Relations",
-          "words": [
+          "key": [
             { "en": "Man", "bn": "মানুষ/পুরুষ" },
             { "en": "Woman", "bn": "নারী" },
             { "en": "Boy", "bn": "ছেলে" },
@@ -63,7 +73,7 @@
         {
           "id": "s2",
           "title": "Common Objects",
-          "words": [
+          "key": [
             { "en": "Pen", "bn": "কলম" },
             { "en": "Book", "bn": "বই" },
             { "en": "Bag", "bn": "ব্যাগ" },
@@ -83,7 +93,7 @@
         {
           "id": "s1",
           "title": "Sentences",
-          "sentences": [
+          "key": [
             {
               "en": "Good morning.",
               "bn": "সুপ্রভাত।"
@@ -123,48 +133,48 @@
  {
       "id": "c4",
       "title": "Days of the Week",
-      "days": [
+      "key": [
         {
-          "no": 1,
-          "english": "Sunday",
-          "bangla": "রবিবার",
-          "pronunciation_bn": "সানডেই"
+          "id": 1,
+          "en": "Sunday",
+          "bn": "রবিবার",
+          "pn": "সানডেই"
         },
         {
-          "no": 2,
-          "english": "Monday",
-          "bangla": "সোমবার",
-          "pronunciation_bn": "মনডেই"
+          "id": 2,
+          "en": "Monday",
+          "bn": "সোমবার",
+          "pn": "মনডেই"
         },
         {
-          "no": 3,
-          "english": "Tuesday",
-          "bangla": "মঙ্গলবার",
-          "pronunciation_bn": "টিউজডেই"
+          "id": 3,
+          "en": "Tuesday",
+          "b": "মঙ্গলবার",
+          "pn": "টিউজডেই"
         },
         {
-          "no": 4,
-          "english": "Wednesday",
-          "bangla": "বুধবার",
-          "pronunciation_bn": "ওয়েন্সডেই"
+          "id": 4,
+          "en": "Wednesday",
+          "bn": "বুধবার",
+          "pn": "ওয়েন্সডেই"
         },
         {
-          "no": 5,
-          "english": "Thursday",
-          "bangla": "বৃহস্পতিবার",
-          "pronunciation_bn": "থা(র)সডেই"
+          "id": 5,
+          "en": "Thursday",
+          "bn": "বৃহস্পতিবার",
+          "pn": "থা(র)সডেই"
         },
         {
-          "no": 6,
-          "english": "Friday",
-          "bangla": "শুক্রবার",
-          "pronunciation_bn": "ফ্রাইডে-ই"
+          "id": 6,
+          "en": "Friday",
+          "bn": "শুক্রবার",
+          "pn": "ফ্রাইডে-ই"
         },
         {
-          "no": 7,
-          "english": "Saturday",
-          "bangla": "শনিবার",
-          "pronunciation_bn": "স্যাটা(র)ডেই"
+          "id": 7,
+          "en": "Saturday",
+          "bn": "শনিবার",
+          "pn": "স্যাটা(র)ডেই"
         }
       ]
     }
