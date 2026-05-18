@@ -26,12 +26,11 @@
           "id": "s2",
           "title": "Vowels",
           "key":[
-           {
-  "id": "",
-  "en": "A, E, I, O, U",
-  "bn": "স্বরবর্ণ",
-  "pn": ""
-}
+            {
+              "en": 
+                "A,E,I,O,U",
+              "bn": "স্বরবর্ণ"
+            }
           ]
         },
         {
@@ -51,7 +50,7 @@
       "title": "Basic Words",
       "subcategories": [
         {
-          "id": "s1",
+          "id": "s3",
           "title": "People & Relations",
           "key": [
             { "en": "Man", "bn": "মানুষ/পুরুষ" },
@@ -67,7 +66,7 @@
           ]
         },
         {
-          "id": "s2",
+          "id": "s4",
           "title": "Common Objects",
           "key": [
             { "en": "Pen", "bn": "কলম" },
@@ -87,7 +86,7 @@
       "title": "Simple Sentences",
       "subcategories": [
         {
-          "id": "s1",
+          "id": "s5",
           "title": "Sentences",
           "key": [
             {
@@ -131,7 +130,7 @@
       "title": "Days of the Week",
       "subcategories": [
     {
-      "id": "s1",
+      "id": "s6",
       "title": "Week Days",
       "key": [
         {
