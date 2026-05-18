@@ -27,13 +27,13 @@
           "title": "Vowels",
           "key":[
             {
-              "letters": [
+              "letters": 
                 "A",
                 "E",
                 "I",
                 "O",
                 "U"
-              ],
+                ,
               "meaning_bangla": "স্বরবর্ণ"
             }
           ]
