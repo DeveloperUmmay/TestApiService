@@ -27,8 +27,8 @@
           "title": "Vowels",
           "key":[
             {
-              "en": 
-                "A,E,I,O,U",
+              "en":
+              "A,E,I,O,U",
               "bn": "স্বরবর্ণ"
             }
           ]
@@ -38,10 +38,10 @@
           "title": "Consonants",
           "key":[
             {
-            "en": "All other 21 letters except vowels",
-            "bn": "ব্যঞ্জনবর্ণ"
-          }
-            ]
+              "en": "All other 21 letters except vowels",
+              "bn": "ব্যঞ্জনবর্ণ"
+            }
+          ]
         }
       ]
     },
@@ -50,7 +50,7 @@
       "title": "Basic Words",
       "subcategories": [
         {
-          "id": "s3",
+          "id": "s4",
           "title": "People & Relations",
           "key": [
             { "en": "Man", "bn": "মানুষ/পুরুষ" },
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "id": "s4",
+          "id": "s5",
           "title": "Common Objects",
           "key": [
             { "en": "Pen", "bn": "কলম" },
@@ -86,7 +86,7 @@
       "title": "Simple Sentences",
       "subcategories": [
         {
-          "id": "s5",
+          "id": "s6",
           "title": "Sentences",
           "key": [
             {
@@ -125,60 +125,60 @@
         }
       ]
     },
- {
+    {
       "id": "c4",
       "title": "Days of the Week",
       "subcategories": [
-    {
-      "id": "s6",
-      "title": "Week Days",
-      "key": [
         {
-          "id": 1,
-          "en": "Sunday",
-          "bn": "রবিবার",
-          "pn": "সানডেই"
-        },
-        {
-          "id": 2,
-          "en": "Monday",
-          "bn": "সোমবার",
-          "pn": "মনডেই"
-        },
-        {
-          "id": 3,
-          "en": "Tuesday",
-          "bn": "মঙ্গলবার",
-          "pn": "টিউজডেই"
-        },
-        {
-          "id": 4,
-          "en": "Wednesday",
-          "bn": "বুধবার",
-          "pn": "ওয়েন্সডেই"
-        },
-        {
-          "id": 5,
-          "en": "Thursday",
-          "bn": "বৃহস্পতিবার",
-          "pn": "থা(র)সডেই"
-        },
-        {
-          "id": 6,
-          "en": "Friday",
-          "bn": "শুক্রবার",
-          "pn": "ফ্রাইডে-ই"
-        },
-        {
-          "id": 7,
-          "en": "Saturday",
-          "bn": "শনিবার",
-          "pn": "স্যাটা(র)ডেই"
+          "id": "s7",
+          "title": "Week Days",
+          "key": [
+            {
+              "id": 1,
+              "en": "Sunday",
+              "bn": "রবিবার",
+              "pn": "সানডেই"
+            },
+            {
+              "id": 2,
+              "en": "Monday",
+              "bn": "সোমবার",
+              "pn": "মনডেই"
+            },
+            {
+              "id": 3,
+              "en": "Tuesday",
+              "bn": "মঙ্গলবার",
+              "pn": "টিউজডেই"
+            },
+            {
+              "id": 4,
+              "en": "Wednesday",
+              "bn": "বুধবার",
+              "pn": "ওয়েন্সডেই"
+            },
+            {
+              "id": 5,
+              "en": "Thursday",
+              "bn": "বৃহস্পতিবার",
+              "pn": "থা(র)সডেই"
+            },
+            {
+              "id": 6,
+              "en": "Friday",
+              "bn": "শুক্রবার",
+              "pn": "ফ্রাইডে-ই"
+            },
+            {
+              "id": 7,
+              "en": "Saturday",
+              "bn": "শনিবার",
+              "pn": "স্যাটা(র)ডেই"
+            }
+          ]
         }
+
       ]
     }
-    
-  ]
-}
   ]
 }
