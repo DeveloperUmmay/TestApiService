@@ -27,14 +27,14 @@
           "title": "Vowels",
           "key":[
             {
-              "letters": 
+              "en": 
                 "A",
                 "E",
                 "I",
                 "O",
                 "U"
                 ,
-              "meaning_bangla": "স্বরবর্ণ"
+              "bn": "স্বরবর্ণ"
             }
           ]
         },
