@@ -242,30 +242,406 @@
               "en": "How are you?",
               "bn": "তুমি কেমন আছো?"
             },
-            {
-              "en": "I am fine.",
-              "bn": "আমি ভালো আছি।"
-            },
-            {
-              "en": "What is your name?",
-              "bn": "তোমার নাম কী?"
-            },
-            {
-              "en": "My name is Rahim.",
-              "bn": "আমার নাম রহিম।"
-            },
-            {
-              "en": "Let’s go.",
-              "bn": "চল যাই।"
-            },
-            {
-              "en": "Thank you very much.",
-              "bn": "তোমাকে অনেক ধন্যবাদ।"
-            },
-            {
-              "en": "I am tired.",
-              "bn": "আমি ক্লান্ত।"
-            }
+             {
+    "id": "sen21",
+    "en": "A little bit.",
+    "bn": "অল্প অল্প।"
+  },
+  {
+    "id": "sen22",
+    "en": "What time is it now?",
+    "bn": "এখন কয়টা বাজে?"
+  },
+  {
+    "id": "sen23",
+    "en": "It’s 5 o’clock.",
+    "bn": "এখন ৫টা বাজে।"
+  },
+  {
+    "id": "sen24",
+    "en": "Are you hungry?",
+    "bn": "তুমি কি ক্ষুধার্ত?"
+  },
+  {
+    "id": "sen25",
+    "en": "Yes, I am hungry.",
+    "bn": "হ্যাঁ, আমি ক্ষুধার্ত।"
+  },
+  {
+    "id": "sen26",
+    "en": "No, I am not hungry.",
+    "bn": "না, আমি ক্ষুধার্ত নই।"
+  },
+  {
+    "id": "sen27",
+    "en": "What do you want to eat?",
+    "bn": "তুমি কী খেতে চাও?"
+  },
+  {
+    "id": "sen28",
+    "en": "I want rice and fish.",
+    "bn": "আমি ভাত আর মাছ খেতে চাই।"
+  },
+  {
+    "id": "sen29",
+    "en": "Let’s go.",
+    "bn": "চল যাই।"
+  },
+  {
+    "id": "sen30",
+    "en": "Wait a minute.",
+    "bn": "এক মিনিট অপেক্ষা করো।"
+  },
+  {
+    "id": "sen31",
+    "en": "I don’t understand.",
+    "bn": "আমি বুঝতে পারছি না।"
+  },
+  {
+    "id": "sen32",
+    "en": "Please say it again.",
+    "bn": "দয়া করে আবার বলুন।"
+  },
+  {
+    "id": "sen33",
+    "en": "Can you help me?",
+    "bn": "তুমি কি আমাকে সাহায্য করতে পারো?"
+  },
+  {
+    "id": "sen34",
+    "en": "Of course.",
+    "bn": "অবশ্যই।"
+  },
+  {
+    "id": "sen35",
+    "en": "What happened?",
+    "bn": "কী হয়েছে?"
+  },
+  {
+    "id": "sen36",
+    "en": "Nothing happened.",
+    "bn": "কিছু হয়নি।"
+  },
+  {
+    "id": "sen37",
+    "en": "Don’t worry.",
+    "bn": "চিন্তা কোরো না।"
+  },
+  {
+    "id": "sen38",
+    "en": "Be careful.",
+    "bn": "সাবধান হও।"
+  },
+  {
+    "id": "sen39",
+    "en": "I like it.",
+    "bn": "আমার এটা ভালো লাগে।"
+  },
+  {
+    "id": "sen40",
+    "en": "I don’t like it.",
+    "bn": "আমার এটা ভালো লাগে না।"
+  },
+  {
+    "id": "sen41",
+    "en": "Very good.",
+    "bn": "খুব ভালো।"
+  },
+  {
+    "id": "sen42",
+    "en": "Excellent work.",
+    "bn": "দারুণ কাজ।"
+  },
+  {
+    "id": "sen43",
+    "en": "I am busy now.",
+    "bn": "আমি এখন ব্যস্ত।"
+  },
+  {
+    "id": "sen44",
+    "en": "Come here.",
+    "bn": "এখানে আসো।"
+  },
+  {
+    "id": "sen45",
+    "en": "Go there.",
+    "bn": "ওদিকে যাও।"
+  },
+  {
+    "id": "sen46",
+    "en": "What’s this?",
+    "bn": "এটা কী?"
+  },
+  {
+    "id": "sen47",
+    "en": "That’s a book.",
+    "bn": "ওটা একটি বই।"
+  },
+  {
+    "id": "sen48",
+    "en": "This is my pen.",
+    "bn": "এটা আমার কলম।"
+  },
+  {
+    "id": "sen49",
+    "en": "Is it yours?",
+    "bn": "এটা কি তোমার?"
+  },
+  {
+    "id": "sen50",
+    "en": "Yes, it’s mine.",
+    "bn": "হ্যাঁ, এটা আমার।"
+  },
+  {
+    "id": "sen51",
+    "en": "Who is he?",
+    "bn": "তিনি কে?"
+  },
+  {
+    "id": "sen52",
+    "en": "He is my brother.",
+    "bn": "তিনি আমার ভাই।"
+  },
+  {
+    "id": "sen53",
+    "en": "Who is she?",
+    "bn": "তিনি কে?"
+  },
+  {
+    "id": "sen54",
+    "en": "She is my sister.",
+    "bn": "তিনি আমার বোন।"
+  },
+  {
+    "id": "sen55",
+    "en": "Where is your father?",
+    "bn": "তোমার বাবা কোথায়?"
+  },
+  {
+    "id": "sen56",
+    "en": "He is at work.",
+    "bn": "তিনি কাজে আছেন।"
+  },
+  {
+    "id": "sen57",
+    "en": "Where is your mother?",
+    "bn": "তোমার মা কোথায়?"
+  },
+  {
+    "id": "sen58",
+    "en": "She is in the kitchen.",
+    "bn": "তিনি রান্নাঘরে আছেন।"
+  },
+  {
+    "id": "sen59",
+    "en": "Do you have a pen?",
+    "bn": "তোমার কাছে কি কলম আছে?"
+  },
+  {
+    "id": "sen60",
+    "en": "Yes, I have a pen.",
+    "bn": "হ্যাঁ, আমার কাছে একটি কলম আছে।"
+  },
+  {
+    "id": "sen61",
+    "en": "No, I don’t have one.",
+    "bn": "না, আমার কাছে নেই।"
+  },
+  {
+    "id": "sen62",
+    "en": "How is the weather today?",
+    "bn": "আজ আবহাওয়া কেমন?"
+  },
+  {
+    "id": "sen63",
+    "en": "It’s very hot.",
+    "bn": "আজ খুব গরম।"
+  },
+  {
+    "id": "sen64",
+    "en": "It’s raining.",
+    "bn": "বৃষ্টি হচ্ছে।"
+  },
+  {
+    "id": "sen65",
+    "en": "It’s very cold.",
+    "bn": "আজ খুব ঠান্ডা।"
+  },
+  {
+    "id": "sen66",
+    "en": "The sun is shining.",
+    "bn": "রোদ উঠেছে।"
+  },
+  {
+    "id": "sen67",
+    "en": "Open the door.",
+    "bn": "দরজা খুলো।"
+  },
+  {
+    "id": "sen68",
+    "en": "Close the window.",
+    "bn": "জানালা বন্ধ করো।"
+  },
+  {
+    "id": "sen69",
+    "en": "Please listen carefully.",
+    "bn": "দয়া করে মনোযোগ দিয়ে শুনো।"
+  },
+  {
+    "id": "sen70",
+    "en": "Write it down.",
+    "bn": "এটা লিখে নাও।"
+  },
+  {
+    "id": "sen71",
+    "en": "Stand up.",
+    "bn": "দাঁড়াও।"
+  },
+  {
+    "id": "sen72",
+    "en": "Sit down.",
+    "bn": "বসো।"
+  },
+  {
+    "id": "sen73",
+    "en": "Come in.",
+    "bn": "ভেতরে আসো।"
+  },
+  {
+    "id": "sen74",
+    "en": "Go out.",
+    "bn": "বাইরে যাও।"
+  },
+  {
+    "id": "sen75",
+    "en": "Don’t touch it.",
+    "bn": "এটা ছুঁয়ো না।"
+  },
+  {
+    "id": "sen76",
+    "en": "Read loudly.",
+    "bn": "জোরে পড়ে শোনাও।"
+  },
+  {
+    "id": "sen77",
+    "en": "Speak slowly.",
+    "bn": "আস্তে আস্তে বলো।"
+  },
+  {
+    "id": "sen78",
+    "en": "Don’t be late.",
+    "bn": "দেরি কোরো না।"
+  },
+  {
+    "id": "sen79",
+    "en": "Hurry up.",
+    "bn": "তাড়াতাড়ি করো।"
+  },
+  {
+    "id": "sen80",
+    "en": "Let me see.",
+    "bn": "আমাকে দেখতে দাও।"
+  },
+  {
+    "id": "sen81",
+    "en": "Call me later.",
+    "bn": "আমাকে পরে ফোন করো।"
+  },
+  {
+    "id": "sen82",
+    "en": "I don’t know.",
+    "bn": "আমি জানি না।"
+  },
+  {
+    "id": "sen83",
+    "en": "Do you know him?",
+    "bn": "তুমি কি তাকে চেনো?"
+  },
+  {
+    "id": "sen84",
+    "en": "Yes, I know him.",
+    "bn": "হ্যাঁ, আমি তাকে চিনি।"
+  },
+  {
+    "id": "sen85",
+    "en": "No, I don’t know him.",
+    "bn": "না, আমি তাকে চিনি না।"
+  },
+  {
+    "id": "sen86",
+    "en": "How do you know?",
+    "bn": "তুমি কীভাবে জানো?"
+  },
+  {
+    "id": "sen87",
+    "en": "Trust me.",
+    "bn": "আমাকে বিশ্বাস করো।"
+  },
+  {
+    "id": "sen88",
+    "en": "I am tired.",
+    "bn": "আমি ক্লান্ত।"
+  },
+  {
+    "id": "sen89",
+    "en": "Take rest.",
+    "bn": "বিশ্রাম নাও।"
+  },
+  {
+    "id": "sen90",
+    "en": "Get ready.",
+    "bn": "প্রস্তুত হও।"
+  },
+  {
+    "id": "sen91",
+    "en": "Are you ready?",
+    "bn": "তুমি কি প্রস্তুত?"
+  },
+  {
+    "id": "sen92",
+    "en": "Yes, I am ready.",
+    "bn": "হ্যাঁ, আমি প্রস্তুত।"
+  },
+  {
+    "id": "sen93",
+    "en": "No, I am not ready.",
+    "bn": "না, আমি প্রস্তুত নই।"
+  },
+  {
+    "id": "sen94",
+    "en": "What’s your plan?",
+    "bn": "তোমার পরিকল্পনা কী?"
+  },
+  {
+    "id": "sen95",
+    "en": "I have no plan.",
+    "bn": "আমার কোনো পরিকল্পনা নেই।"
+  },
+  {
+    "id": "sen96",
+    "en": "Don’t be afraid.",
+    "bn": "ভয় পেয়ো না।"
+  },
+  {
+    "id": "sen97",
+    "en": "It’s easy.",
+    "bn": "এটা সহজ।"
+  },
+  {
+    "id": "sen98",
+    "en": "It’s difficult.",
+    "bn": "এটা কঠিন।"
+  },
+  {
+    "id": "sen99",
+    "en": "I agree with you.",
+    "bn": "আমি তোমার সাথে একমত।"
+  },
+  {
+    "id": "sen100",
+    "en": "I don’t agree with you.",
+    "bn": "আমি তোমার সাথে একমত নই।"
+  }
           ]
         }
       ]
